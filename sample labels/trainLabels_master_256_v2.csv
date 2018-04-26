@@ -1,0 +1,17 @@
+image,level,train_image_name
+13_left.jpeg,0.0,13_left.jpeg
+13_left.jpeg,0.0,13_left_mir.jpeg
+13_right.jpeg,0.0,13_right.jpeg
+13_right.jpeg,0.0,13_right_mir.jpeg
+15_left.jpeg,1.0,15_left.jpeg
+15_left.jpeg,1.0,15_left_120.jpeg
+15_left.jpeg,1.0,15_left_180.jpeg
+15_left.jpeg,1.0,15_left_270.jpeg
+15_left.jpeg,1.0,15_left_90.jpeg
+15_left.jpeg,1.0,15_left_mir.jpeg
+15_right.jpeg,2.0,15_right.jpeg
+15_right.jpeg,2.0,15_right_120.jpeg
+15_right.jpeg,2.0,15_right_180.jpeg
+15_right.jpeg,2.0,15_right_270.jpeg
+15_right.jpeg,2.0,15_right_90.jpeg
+15_right.jpeg,2.0,15_right_mir.jpeg
